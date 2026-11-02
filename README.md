@@ -84,11 +84,5 @@ Follow these instructions to set up the project locally.
 ## 🌍 Deployment
 
 ### Live Preview
-[Insert Deployed Link Here]
+(https://hunger-heaven-two.vercel.app/)
 
-The project is designed to be deployed easily.
-*   **Frontend**: Vercel, Netlify
-*   **Backend**: Render, Heroku
-
----
-*Built with ❤️ by [Hero0p]*
